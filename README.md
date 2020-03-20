@@ -1,5 +1,6 @@
 # number-recogntion
-OCR on hand written numbers from images, video and a canvas to draw with cursor
+# OCR on hand written numbers from images, video and a canvas to draw with cursor
+
 1.run main.py and choose the options
 
 2.the model can only detect the images with white color on black background so we convert them into grayscale and invert them with a small code snippet
